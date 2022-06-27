@@ -1,0 +1,37 @@
+.button {
+  background: #F5170E;
+  border-radius: 35px;
+  padding: 19px 40px;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.button--color--white {
+  background: #fff;
+  color: #F5170E;
+  border: 1px solid #F5170E;
+}
+
+.button--color--white:hover {
+  background: #F5170E;
+  color: #fff;
+}
+
+.button--color--white {
+  box-sizing: border-box;
+  padding: 17px 29px;
+  transition: .5s;
+}
+
+.button__story:hover {
+  background-color: #DA0100;
+}
+
+.button--service {
+  padding: 17px 38px;
+  background-color: #F2F2F2;
+}
