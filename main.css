@@ -5,6 +5,7 @@
 @import url(./css/blocks/logo.css);
 @import url(./css/blocks/menu.css);
 @import url(./css/blocks/contacts.css);
+@import url(./css/blocks/dropdown.css);
 @import url(./css/blocks/main\(page\).css);
 @import url(./css/blocks/button.css);
 @import url(./css/blocks/sale.css);
@@ -23,3 +24,10 @@
 @import url(./css/blocks/inner-section.css);
 @import url(./css/blocks/partners.css);
 @import url(./css/blocks/inner-footer.css);
+@import url(./css/blocks/review.css);
+@import url(./css/blocks/avatar.css);
+@import url(./css/blocks/tag.css);
+@import url(./css/blocks/separator.css);
+@import url(./css/blocks/form.css);
+@import url(./css/blocks/controls.css);
+@import url(./css/blocks/welcome.css);

@@ -22,33 +22,33 @@
 }
 
 .socials__link--tg .socials__link {
-  background-image: url(./img/tg.png);
+  background: url(../../img/css_sprites.png) -66px -66px;
 }
 
 .socials__link--tg .socials__link:hover {
-  background-image: url(./img/tg-hover.png);
+  background: url(../../img/css_sprites.png) -122px -10px;
 }
 
 .socials__link--vk .socials__link {
-  background-image: url(./img/vk.png);
+  background: url(../../img/css_sprites.png) -122px -66px;
 }
 
 .socials__link--vk .socials__link:hover {
-  background-image: url(./img/vk-hover.png);
+  background: url(../../img/css_sprites.png) -10px -122px;
 }
 
 .socials__link--fb .socials__link {
-  background-image: url(./img/fb.png);
+  background: url(../../img/css_sprites.png) -66px -122px;
 }
 
 .socials__link--fb .socials__link:hover {
-  background-image: url(./img/fb-hover.png);
+  background: url(../../img/css_sprites.png) -10px -10px;
 }
 
 .socials__link--ig .socials__link {
-  background-image: url(./img/ig.png);
+  background: url(../../img/css_sprites.png) -66px -10px;
 }
 
 .socials__link--ig .socials__link:hover {
-  background-image: url(./img/ig-hover.png);
+  background: url(../../img/css_sprites.png) -10px -66px;
 }

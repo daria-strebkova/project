@@ -19,6 +19,13 @@
   text-align: center;
 }
 
+.paginator__item:hover {
+  background: #F5170E;
+  border-radius: 50%;
+  color: #fff;
+  transition: .5s;
+}
+
 .paginator__item--active .paginator__link {
   background: #fff;
   border-radius: 50%;
